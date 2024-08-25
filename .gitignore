@@ -1,0 +1,61 @@
+# Compiled object files
+*.o
+
+# Compiled static libraries
+*.a
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executable files
+*.out
+*.exe
+
+# Debug files
+*.dSYM/
+*.stackdump
+*.core
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Editor files and folders
+*.swp
+*.swo
+.vscode/
+.idea/
+*.iml
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# CMake and Makefile artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Other IDE specific files
+*.vcxproj
+*.vcxproj.user
+*.sln
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.tlog
+*.pdb
+*.opendb
+*.vscode/
